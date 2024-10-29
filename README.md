@@ -80,8 +80,9 @@
     <nav>
         <a href="#causas">Causas</a></li>|
         <a href="#sintomas">Sintomas</a></li>|
-        <a href="#prevencao">Prevenção</a></li>|
         <a href="#tratamento">Tratamento</a></li>|
+        <a href="#prevencao">Prevenção</a></li>|
+    
     </nav>
 
     <section id="causas">
