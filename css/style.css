@@ -14,8 +14,8 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #48a9a6;
-    color: #fff;
+    background-color: #07eaf1;
+    color: #000000;
     padding: 30px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -51,7 +51,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #48a9a6;
+    color: #07eaf1;
 }
 
 /* Cards */
@@ -65,26 +65,26 @@ nav ul li a:hover {
 }
 
 .card h2 {
-    color: #48a9a6;
+    color: #000000;
     font-size: 1.8rem;
     margin-bottom: 10px;
 }
 .card hr {
-    color: #17d1cb;
+    color: #059196;
     padding: 2px;
-    background-color: #17d1cb;
+    background-color: #056669;
     width: 100%;
-    border: 0 solid #17d1cb;
+    border: 1px solid #07eaf1;
 }
 .card p {
     font-size: 1.1rem;
-    color: #555;
+    color: #000000;
 }
 
 /* Botão */
 button {
-    background-color: #48a9a6;
-    color: white;
+    background-color: #07eaf1;
+    color: rgb(0, 0, 0);
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -94,7 +94,7 @@ button {
 }
 
 button:hover {
-    background-color: #357f7b;
+    background-color: #0acfc5;
 }
 
 /* Rodapé */
@@ -104,6 +104,12 @@ footer {
     text-align: center;
     padding: 15px 0;
     margin-top: 20px;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    justify-self: center;
 }
 
 /* Dicas ocultas */
