@@ -278,7 +278,7 @@
 
     </main>
     <footer> <!-- rodapé -->
-        <section id="contatos" class="card">
+        <section id="contatos" class="card"> <!-- parte dos contatos --> 
             <h1>Contatos</h1>
             <ul>
                 <i class="fas fa-envelope"></i> Guilherme Filippo - <a
