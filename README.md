@@ -64,7 +64,7 @@
         }
 
         nav ul li a:hover {
-            color: #6A5ACD;
+            color: #87CEFA;
         }
 
         /* Cards */
