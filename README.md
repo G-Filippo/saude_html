@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="img/download.png" type="image/x-icon">
     <title>Document</title>
-    /* Reset básico */
+    <!-- Reset básico -->
     <style>
         * {
             margin: 0;
@@ -27,7 +27,7 @@
 
         /* Cabeçalho */
         header {
-            background-color: #07eaf1;
+            background-color: #87CEFA;
             color: #000000;
             padding: 30px;
             text-align: center;
@@ -64,7 +64,7 @@
         }
 
         nav ul li a:hover {
-            color: #07eaf1;
+            color: #6A5ACD;
         }
 
         /* Cards */
@@ -98,7 +98,7 @@
 
         /* Botão */
         button {
-            background-color: #07eaf1;
+            background-color: #87CEFA;
             color: rgb(0, 0, 0);
             border: none;
             padding: 10px 20px;
@@ -190,7 +190,7 @@
                 crianças que vivem na cidade, pois são mais expostas a poluição e particulas que podem irritar o
                 sistemas
                 respiratório, podendo desenvolver rinites alérgicas e asma, por exemplo.</p>
-            <img src="https://www.escolaespacoeducar.com.br/novo/wp-content/uploads/2023/05/teleconsulta-medica-para-paciente-doente-em-casa-880x587.jpg"
+            <imgsrc="https://www.escolaespacoeducar.com.br/novo/wp-content/uploads/2023/05/teleconsulta-medica-para-paciente-doente-em-casa-880x587.jpg"
                 style="display: block; margin: 0 auto; width: 300px;">
 
         </section>
@@ -278,7 +278,7 @@
 
     </main>
     <footer> <!-- rodapé -->
-        <section id="contatos" class="card"> <!-- parte dos contatos --> 
+        <section id="contatos" class="card">
             <h1>Contatos</h1>
             <ul>
                 <i class="fas fa-envelope"></i> Guilherme Filippo - <a
