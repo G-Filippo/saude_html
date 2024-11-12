@@ -182,7 +182,7 @@
             <h2> Causas </h2>
             <hr>
             <p> As doenças respiratórias nas crianças podem ser causadas por inúmeros fatores. Por exemplo, infecções
-                virais, bactérias e também condições alérgicas. Como as crinças tem um sistemas imunológico mais frágil,
+                virais, bactérias e também condições alérgicas. Como as crianças tem um sistema imunológico mais frágil,
                 pois ainda está em desenvolvimento, tendem a ser mais suscetíveis as doenças pulmonares.
 
                 Além disso, contato com poeira, ácaros e poluição do ar podem causar crises respiratórias.
