@@ -14,7 +14,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #07eaf1;
+    background-color: #87CEFA;
     color: #000000;
     padding: 30px;
     text-align: center;
@@ -83,7 +83,7 @@ nav ul li a:hover {
 
 /* Botão */
 button {
-    background-color: #07eaf1;
+    background-color: #87CEFA;
     color: rgb(0, 0, 0);
     border: none;
     padding: 10px 20px;
